@@ -11,3 +11,9 @@ data_file 'DLC_ITYP_REQUEST' 'int_veg.ytyp'
 
 file 'interiorproxies.meta'
 data_file "INTERIOR_PROXY_ORDER_FILE" "interiorproxies.meta"
+
+file 'client.lua'
+
+client_scripts { 
+    "client.lua"
+}
