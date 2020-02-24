@@ -8,6 +8,9 @@ data_file 'DLC_ITYP_REQUEST' 'ext_veg.ytyp'
 file 'int_veg.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'int_veg.ytyp'
 
+file 'minigame.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'minigame.ytyp'
+
 
 file 'interiorproxies.meta'
 data_file "INTERIOR_PROXY_ORDER_FILE" "interiorproxies.meta"

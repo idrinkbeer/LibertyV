@@ -75,7 +75,6 @@ end)
 Citizen.CreateThread(function()
 print("HEeee")
 
-SetRadarBigmapEnabled(false, false);
   SwitchTrainTrack(13, true)
   SwitchTrainTrack(14, true)
   SwitchTrainTrack(15, true)
