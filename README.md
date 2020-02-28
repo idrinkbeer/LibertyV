@@ -6,7 +6,8 @@ Start like that in server.cfg :
 start LibertyV
 start LibertyV-assets
 start LibertyV-assets2
-start LibertyV-map
+start liberty-city
+( Delete LibertyV-map into the assets and replace it by liberty-city : https://cdn.discordapp.com/attachments/682889374483873797/682914400197148704/liberty-city.rar )
 
 
 
